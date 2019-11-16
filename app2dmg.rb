@@ -6,7 +6,7 @@ class App2dmg < Formula
   homepage ""
   url "https://raw.githubusercontent.com/athlonreg/homebrew-tap/master/src/app2dmg.tar.xz"
   version "1.0"
-  sha256 "2591d7e018062d2cc6fb594c1b60f2c2f7525502c1b4c1bb515ba1240c3a8de1"
+  sha256 "c6f6a6f017bc04c6de1b4ce857e98ec30369a184c0a6bca0139e0240f0c66e67"
 
   def install
     # ENV.deparallelize  # if your formula fails when building in parallel
