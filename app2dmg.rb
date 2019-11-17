@@ -5,8 +5,8 @@ class App2dmg < Formula
   desc "Command line tool to create dmg for app"
   homepage ""
   url "https://raw.githubusercontent.com/athlonreg/homebrew-tap/master/src/app2dmg.tar.xz"
-  version "2.0"
-  sha256 "c6f6a6f017bc04c6de1b4ce857e98ec30369a184c0a6bca0139e0240f0c66e67"
+  version "2.1"
+  sha256 "49f8bf05f669db9a5f27bce1192362f273ddfcd0841006033f4e471611028d46"
 
   def install
     # ENV.deparallelize  # if your formula fails when building in parallel
