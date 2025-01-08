@@ -1,4 +1,4 @@
-class Image-sync < Formula
+class ImageSync < Formula
   desc "Command line tool to sync image from one container registry to another use skopeo"
   homepage ""
   url "https://raw.githubusercontent.com/athlonreg/homebrew-tap/master/src/image-sync.tar.xz"
